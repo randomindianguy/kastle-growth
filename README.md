@@ -15,4 +15,3 @@ Built as part of a Founder Intern application.
 **Sidharth Sundaram**
 - [LinkedIn](https://www.linkedin.com/in/sidharthsundaram/)
 - [Website](https://sidharthsundaram.com)
-- sundar84@purdue.edu
